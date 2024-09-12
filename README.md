@@ -120,6 +120,11 @@ To get started with this project, follow these steps:
 - **`index.html`**: Contains the HTML structure of the form.
 - **`css/style.css`**: Contains styles for the form and its elements.
 - **`js/script.js`**: Contains JavaScript code for form validation and error handling.
+## Example
+
+Here is a screenshot of the form:
+
+![Form Screenshot](path/to/screenshot.png)  
 
 
 ## Contributing
