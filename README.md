@@ -124,7 +124,7 @@ To get started with this project, follow these steps:
 
 Here is a screenshot of the form:
 
-![Form Screenshot](path/to/screenshot.png)  
+![Form Screenshot](C:\Users\home\Pictures\screen shot)  
 
 
 ## Contributing
