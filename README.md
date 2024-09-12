@@ -126,7 +126,6 @@ To get started with this project, follow these steps:
 Here is a screenshot of the form:
 
 ![Form Screenshot](path/to/screenshot.png)
-
 ## Contributing
 
 If you want to contribute to this project, please follow these guidelines:
@@ -135,16 +134,7 @@ If you want to contribute to this project, please follow these guidelines:
 2. **Make your changes** and test them thoroughly.
 3. **Submit a pull request** with a clear description of your changes and any relevant information.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or feedback, please contact:
-
-- **Your Name**: your.email@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
 
 
 ##TASK3
