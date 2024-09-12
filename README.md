@@ -1,3 +1,154 @@
+##TASK1
+# Responsive Web Page with Background Image
+
+This project is a responsive web page designed using HTML and CSS. It includes a background image, styled content, and uses media queries to ensure responsiveness on different screen sizes such as desktops, tablets, and mobile devices.
+
+## Features
+
+- *Responsive Design*: The layout adjusts based on the screen size using CSS media queries.
+- *Background Image*: The webpage features a full-screen background image.
+- *CSS Styling*: Elements are styled using classes and IDs to provide a clean and attractive layout.
+- *Customizable Content*: The content is simple and can be easily modified or extended.
+
+## Technologies Used
+
+- *HTML5*: For the webpage structure.
+- *CSS3*: For styling and responsiveness.
+- *Media Queries*: To handle responsiveness on various screen sizes.
+
+## Setup Instructions
+
+To use or modify the code:
+
+1. *Clone the repository*:
+   ```bash
+   git clone https://github.com/your-username/responsive-web-page.git
+   
+##navigate to the project directory
+
+cd responsive-web-page
+
+##Folder structure
+responsive-web-page/
+│
+├── index.html         # Main HTML file
+├── css/
+│   └── style.css      # Main stylesheet
+├── images/
+│   └── image.webp     # Background image
+└── README.md          # Project instructions
+
+##Customization
+.background-image {
+  background-image: url(../images/your-image.webp);
+}
+##Media queries
+/* For tablets and smaller screens (less than 768px) */
+@media (max-width: 768px) {
+    /* Styles for tablet */
+}
+
+/* For mobile devices and smaller screens (less than 480px) */
+@media (max-width: 480px) {
+    /* Styles for mobile */
+}
+##License
+### How this README works:
+- *Features*: Highlights what the webpage offers.
+- *Technologies Used*: Lists the main technologies in the project.
+- *Setup Instructions*: Helps users download and view the project locally.
+- *Customization*: Provides a guide to changing the content, background image, and style.
+- *Folder Structure*: Shows how the files are organized in the project.
+- *Media Queries*: Details how the responsive design adapts to various screen sizes.
+
+Feel free to modify the README.md as per your project's needs!
+
+##TASK2
+# Interactive Registration Form
+
+## Overview
+
+This project is a simple interactive registration form built with HTML, CSS, and JavaScript. The form includes basic user input fields for username, email, and password, with client-side validation to ensure that the data entered is correct before submission.
+
+## Features
+
+- **Client-side validation**: Checks for required fields, valid email format, and password length.
+- **Responsive design**: The form is centered and styled for a clean, user-friendly experience.
+- **Error handling**: Displays error messages near the respective input fields and highlights errors with red borders.
+
+## Project Structure
+
+
+
+## Getting Started
+
+To get started with this project, follow these steps:
+
+1. **Clone the repository**:
+
+    ```sh
+    git clone https://github.com/yourusername/interactive-registration-form.git
+    ```
+
+2. **Navigate to the project directory**:
+
+    ```sh
+    cd interactive-registration-form
+    ```
+
+3. **Open `index.html` in your web browser** to view the form:
+
+    ```sh
+    open index.html
+    ```
+
+   Alternatively, you can use a local development server if you have one set up.
+
+## Usage
+
+1. **Fill out the form fields**:
+    - Enter a username.
+    - Provide a valid email address.
+    - Set a password (at least 6 characters long).
+
+2. **Submit the form**:
+    - If all fields are valid, a success message will appear.
+    - If there are errors, the form will display error messages next to the respective fields.
+
+## File Descriptions
+
+- **`index.html`**: Contains the HTML structure of the form.
+- **`css/style.css`**: Contains styles for the form and its elements.
+- **`js/script.js`**: Contains JavaScript code for form validation and error handling.
+
+## Example
+
+Here is a screenshot of the form:
+
+![Form Screenshot](path/to/screenshot.png)
+
+## Contributing
+
+If you want to contribute to this project, please follow these guidelines:
+
+1. **Fork the repository** and create your branch from `main`.
+2. **Make your changes** and test them thoroughly.
+3. **Submit a pull request** with a clear description of your changes and any relevant information.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any questions or feedback, please contact:
+
+- **Your Name**: your.email@example.com
+- **GitHub**: [yourusername](https://github.com/yourusername)
+
+
+##TASK3
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
