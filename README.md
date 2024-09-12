@@ -121,11 +121,7 @@ To get started with this project, follow these steps:
 - **`css/style.css`**: Contains styles for the form and its elements.
 - **`js/script.js`**: Contains JavaScript code for form validation and error handling.
 
-## Example
 
-Here is a screenshot of the form:
-
-![Form Screenshot](path/to/screenshot.png)
 ## Contributing
 
 If you want to contribute to this project, please follow these guidelines:
