@@ -19,22 +19,14 @@ h1{
     margin-bottom: 20px;
 }
 #username{
-    padding: 5px;
-    font-weight: bold;
-    
-    
+    padding: 5px;    
 }
 #email{
     margin-left: 24px;
-    padding:5px;
-    font-weight: bold;
-    
+    padding:5px;   
 }
 #password{
-    padding:5px;
-    font-weight: bold;
-    
-    
+    padding:5px; 
 }
 .error{
     color: red;
